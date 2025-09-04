@@ -1,0 +1,19 @@
+const uint8_t playWidth = 8;
+const uint8_t playHeight = 13;
+const uint8_t playX = 55;
+const uint8_t playY = 2;
+const uint8_t play [] = {
+	0x0,
+	0x40,
+	0x60,
+	0x70,
+	0x78,
+	0x7c,
+	0x7e,
+	0x7c,
+	0x78,
+	0x70,
+	0x60,
+	0x40,
+	0x0
+};
